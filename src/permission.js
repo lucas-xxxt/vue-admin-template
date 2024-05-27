@@ -19,7 +19,7 @@ router.beforeEach(async(to, from, next) => {
 
   // determine whether the user has logged in
   // const hasToken = getToken()
-  NProgress.done();
+  NProgress.done()
   next()
 
   // if (hasToken) {

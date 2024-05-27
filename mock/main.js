@@ -3370,8 +3370,1375 @@ const data3 = [
   }
 ]
 
+const data4 = [
+  {
+    id: '3460663934205952',
+    course_id: 11,
+    type_id: '110305',
+    kpoint_ids: [3955, 81314],
+    catalog_ids: [
+      5752, 6029, 6147, 6442, 6639, 6899, 7128, 7322, 7456, 7649, 7849, 8007,
+      8163
+    ],
+    years: [2024],
+    difficulty: 0.65,
+    difficulty_level: 19,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6ted8XxkGcHwsXG_rvQsrbLie"><p style="text-align: left;"><span style="font-family: 宋体;">抛物线</span><span style="font-style: italic;font-family: \'Times New Roman\';">L</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/c468dc5cc34c14a188493a21019e8f83.svg" class="xkw-math-img" /><span style="font-family: 宋体;">与</span><span style="font-style: italic;font-family: \'Times New Roman\';">x</span><span style="font-family: 宋体;">轴交于点．</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/ae838c1a48dfea1f44e5869fac5d2b5e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">和点</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">B</span><span style="font-family: 宋体;">，与</span><span style="font-style: italic;font-family: \'Times New Roman\';">y</span><span style="font-family: 宋体;">轴交于点</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/e5a1a843e25ebb752cea96f28ef5c0eb.svg" class="xkw-math-img" /></p><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6ted8XxkGcHwsXG_rvQsrbLie"><p style=""><span class="ques-no">（1）</span><span style="font-family: 宋体;">求抛物线</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">L</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">的函数表达式．</span></p></div></div><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6ted8XxkGcHwsXG_rvQsrbLie"><p style=""><span class="ques-no">（2）</span><span style="font-family: 宋体;">抛物线</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">L</span><span style="font-family: 宋体;">关于原点对称的抛物线记为</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/dcf90af48c665ee801c05cc55914b8fd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，点</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">P</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">在抛物线</span><span style="font-style: italic;font-family: \'Times New Roman\';">L</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">上，点</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">P</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">在抛物线</span><img  src="https://img.xkw.com/dksih/formula/dcf90af48c665ee801c05cc55914b8fd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">上的对应点记为点</span><span style="font-style: italic;font-family: \'Times New Roman\';">Q</span><span style="font-family: 宋体;">，若四边形</span><img  src="https://img.xkw.com/dksih/formula/e8d4ab45e8e8f0084d8d90a4c1233d86.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积为</span><span style="font-family: \'Times New Roman\';"> 6</span><span style="font-family: 宋体;">，求点</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">P</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">的坐标．</span></p></div></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6ted8XxkGcHwsXG_rvQsrbLie">（1）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><img  src="https://img.xkw.com/dksih/formula/7ec701182432d8d4225e38454365ef6d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><span style="font-family: 宋体;">点</span><span style="font-family: \'Times New Roman\';font-style: italic;">P</span><span style="font-family: 宋体;">的坐标是</span><img  src="https://img.xkw.com/dksih/formula/e2e7f7bca9f0450733dc8fffd9361403.svg" class="xkw-math-img" /><span style="font-family: 宋体;">或</span><img  src="https://img.xkw.com/dksih/formula/d55544090d44068ad0dac3049a2b7fba.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6ted8XxkGcHwsXG_rvQsrbLie"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">本题考查了抛物线与</span><span style="font-style: italic;font-family: \'Times New Roman\';">x</span><span style="font-family: 宋体;">轴的交点，二次函数的解析式，二次函数关于原点对称的特征，四边形的面积转化为三角形的面积问题，其中（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）要注意分类求解，避免遗漏．</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）用待定系数法求函数解析式即可；</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）根据</span><span style="font-style: italic;font-family: \'Times New Roman\';">P</span><span style="font-family: 宋体;">与</span><span style="font-style: italic;font-family: \'Times New Roman\';">Q</span><span style="font-family: 宋体;">关于原点对称可以得到</span><img  src="https://img.xkw.com/dksih/formula/dc703cb11ab85d52d83ef9ad1cae7640.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，然后得出</span><img  src="https://img.xkw.com/dksih/formula/89d8989b2163120d176d86a9a58c302e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，再把</span><img  src="https://img.xkw.com/dksih/formula/89d8989b2163120d176d86a9a58c302e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">代入</span><img  src="https://img.xkw.com/dksih/formula/7ec701182432d8d4225e38454365ef6d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">中，求出</span><span style="font-style: italic;font-family: \'Times New Roman\';">x</span><span style="font-family: 宋体;">即可．</span></p></div><div class="qml-exps-sq" id-container="question">(1)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解∶将点</span><img  src="https://img.xkw.com/dksih/formula/ae838c1a48dfea1f44e5869fac5d2b5e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">和点</span><img  src="https://img.xkw.com/dksih/formula/81623a87822981ef8fc4fbe3f8703fca.svg" class="xkw-math-img" /><span style="font-family: 宋体;">代入</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/c468dc5cc34c14a188493a21019e8f83.svg" class="xkw-math-img" /><span style="font-family: 宋体;">中，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">得</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/c179106dac0cfcbbff108ce771dfbcc8.svg" class="xkw-math-img" /></p><p style="text-align: left;"><span style="font-family: 宋体;">解得</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/3aa37002aadc7199c304ec68b213725d.svg" class="xkw-math-img" /><span style="font-family: \'Times New Roman\';"><span style="font-family: \'Times New Roman\'" qml-space-size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴抛物线</span><span style="font-style: italic;font-family: \'Times New Roman\';">L</span><span style="font-family: 宋体;">的函数表达式是</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/7ec701182432d8d4225e38454365ef6d.svg" class="xkw-math-img" /></p></div><div class="qml-exps-sq" id-container="question">(2)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：当</span><img  src="https://img.xkw.com/dksih/formula/e2a7df955fc17e92fd86302f8c34664a.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/56476c9306e8d350bb3f518fc802019f.svg" class="xkw-math-img" /></p><p style="text-align: left;"><span style="font-family: 宋体;">解得</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/707126e906915d10844b0170e2fca562.svg" class="xkw-math-img" /></p><p style="text-align: left;"><span style="font-family: 宋体;">∴点</span><span style="font-style: italic;font-family: \'Times New Roman\';">A</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">的坐标是</span><img  src="https://img.xkw.com/dksih/formula/613a90b59622decd293885cc13a835e1.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，点</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">B</span><span style="font-family: 宋体;">的坐标是</span><img  src="https://img.xkw.com/dksih/formula/5113db880dd976d123e512098d84303c.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/c202cde2987adb9bf567f4961cf18f58.svg" class="xkw-math-img" /><span style="font-family: 宋体;">,</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵如图，点</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-style: italic;font-family: \'Times New Roman\';">P</span><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">与点</span><span style="font-style: italic;font-family: \'Times New Roman\';">Q</span><span style="font-family: 宋体;">关于原点对称，</span></p><p style="text-align: left;"><img  height="130" source-file="https://img.xkw.com/dksih/QBM/editorImg/2024/3/25/879e2a8a-46e4-4e2b-a144-33d00a48f7b2.ai" src="https://img.xkw.com/dksih/QBM/editorImg/2024/3/25/879e2a8a-46e4-4e2b-a144-33d00a48f7b2.png" width="156" /></p><p style="text-align: left;"><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/b529c3e4c08179e1045b0be5372939b6.svg" class="xkw-math-img" /></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/a8a98187771b8aa7fc1b68a1c843609d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴解得</span><img  src="https://img.xkw.com/dksih/formula/89d8989b2163120d176d86a9a58c302e.svg" class="xkw-math-img" /></p><p style="text-align: left;"><span style="font-family: 宋体;">当</span><img  src="https://img.xkw.com/dksih/formula/d14b2391c1b100fa3848f9eadebc313f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/c6aea84804f079a383c6ec87fa4f4998.svg" class="xkw-math-img" /></p><p style="text-align: left;"><span style="font-family: 宋体;">解得</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/0d383ff4db817a12a322b9853c1b5222.svg" class="xkw-math-img" /></p><p style="text-align: left;"><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/d760116d92997ec5a0a2a99147580951.svg" class="xkw-math-img" /><span style="font-family: \'Times New Roman\';"> </span></p><p style="text-align: left;"><span style="font-family: 宋体;">当</span><img  src="https://img.xkw.com/dksih/formula/fcc8d0599c80eea3ece1fe0a5467702d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><span style="font-family: \'Times New Roman\';"> </span><img  src="https://img.xkw.com/dksih/formula/b17d25ec6e4748fc1381a4b4037e1893.svg" class="xkw-math-img" /><span style="font-family: 宋体;">此方程无解．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">综上所述，点</span><span style="font-style: italic;font-family: \'Times New Roman\';">P</span><span style="font-family: 宋体;">的坐标是</span><img  src="https://img.xkw.com/dksih/formula/4a94918021c60495920bdbaf79ade4e3.svg" class="xkw-math-img" /><span style="font-family: 宋体;">或</span><img  src="https://img.xkw.com/dksih/formula/2518d8a1b392306c0fedcb51913e345f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-24 19:21:42',
+    paper_type_ids: [27],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 5752,
+        name: '4 二次函数的应用'
+      },
+      {
+        id: 6029,
+        name: '26.3 二次函数y=ax²＋bx＋c的图像'
+      },
+      {
+        id: 6147,
+        name: '21.4 二次函数的应用'
+      },
+      {
+        id: 6442,
+        name: '26.3 实践与探索'
+      },
+      {
+        id: 6639,
+        name: '30.4 二次函数的应用'
+      },
+      {
+        id: 6899,
+        name: '19.4 二次函数的应用'
+      },
+      {
+        id: 7128,
+        name: '6 二次函数的应用'
+      },
+      {
+        id: 7322,
+        name: '5.7 二次函数的应用'
+      },
+      {
+        id: 7456,
+        name: '28.3 二次函数与实际问题'
+      },
+      {
+        id: 7649,
+        name: '22.3 实际问题与二次函数'
+      },
+      {
+        id: 7849,
+        name: '5.5 用二次函数解决问题'
+      },
+      {
+        id: 8007,
+        name: '1.5 二次函数的应用'
+      },
+      {
+        id: 8163,
+        name: '1.4 二次函数的应用'
+      }
+    ],
+    type: {
+      id: '110305',
+      name: '问答题'
+    },
+    kpoints: [
+      {
+        id: 3955,
+        name: '待定系数法求二次函数解析式'
+      },
+      {
+        id: 81314,
+        name: '面积问题(二次函数综合)'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 0,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title: '2024年陕西省榆林市子洲县周家硷中学中考二模数学试题',
+        area: {
+          id: '610000',
+          name: '陕西省'
+        },
+        type_id: 27,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3459590721986560',
+    course_id: 11,
+    type_id: '1101',
+    kpoint_ids: [3747],
+    catalog_ids: [
+      7639, 5719, 7822, 6127, 6402, 8137, 6603, 7311, 7098, 7451, 6872, 5937,
+      33983
+    ],
+    years: [2024],
+    difficulty: 0.8500000000000001,
+    difficulty_level: 18,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teem-vpKNtswFdL-S_C9fvPE"><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">一元二次方程</span><img  src="https://img.xkw.com/dksih/formula/c2ade5fba526d58776e22753bab24077.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的根是（　　）</span></p><div class=" qml-og"><table class="qml-og" style="width:100%"><tr><td>A.&nbsp;<span class="qml-op"><img  src="https://img.xkw.com/dksih/formula/da322ac8867e8a47c6588601078abf18.svg" class="xkw-math-img" /></span></td><td>B.&nbsp;<span class="qml-op"><img  src="https://img.xkw.com/dksih/formula/ba53065eb180a682305fddb95d14b62f.svg" class="xkw-math-img" /></span></td><td>C.&nbsp;<span class="qml-op"><img  src="https://img.xkw.com/dksih/formula/3f7f37ad1ab08454a60d5c2aa439daed.svg" class="xkw-math-img" /></span></td><td colspan="1">D.&nbsp;<span class="qml-op"><img  src="https://img.xkw.com/dksih/formula/4691b50dc1fb352e94a3f51b549af0cd.svg" class="xkw-math-img" /></span></td></tr></table></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teem-vpKNtswFdL-S_C9fvPE"><span class="qml-an-sq"><span class="qml-an qml-isop ">D</span></span></div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teem-vpKNtswFdL-S_C9fvPE"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">本题考查了解一元二次方程，熟练掌握解一元二次方程的方法和步骤是解题的关键．</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">用公因式分解法求解该方程即可．</span></p></div><div class="qml-seg" seg-name="详解">【详解】<p style="text-align: left;"><span style="font-family: 宋体;">解：</span><img  src="https://img.xkw.com/dksih/formula/c2ade5fba526d58776e22753bab24077.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/05205c4cd37cc1edcae491db54bd41cc.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/b5bc546050821dc46ba1aa735f89ed2a.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/1a1523477addb288404f6d5991fed965.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/e66609afc8fd44139d5463a0972f7d49.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/4691b50dc1fb352e94a3f51b549af0cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">故选：</span><span style="font-family: \'Times New Roman\';">D</span><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-23 06:58:15',
+    paper_type_ids: [3],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 7639,
+        name: '21.2.3 因式分解法'
+      },
+      {
+        id: 5719,
+        name: '4 用因式分解法求解一元二次方程'
+      },
+      {
+        id: 7822,
+        name: '1.2 一元二次方程的解法'
+      },
+      {
+        id: 6127,
+        name: '17.2 一元二次方程的解法'
+      },
+      {
+        id: 6402,
+        name: '1. 直接开平方法和因式分解法'
+      },
+      {
+        id: 8137,
+        name: '2.2 一元二次方程的解法'
+      },
+      {
+        id: 6603,
+        name: '24.2 解一元二次方程'
+      },
+      {
+        id: 7311,
+        name: '4.4 用因式分解法解一元二次方程'
+      },
+      {
+        id: 7098,
+        name: '4 用因式分解法解一元二次方程'
+      },
+      {
+        id: 7451,
+        name: '27.2 解一元二次方程'
+      },
+      {
+        id: 6872,
+        name: '16.2.4 因式分解法'
+      },
+      {
+        id: 5937,
+        name: '17.2 一元二次方程的解法'
+      },
+      {
+        id: 33983,
+        name: '2.2.3 因式分解法'
+      }
+    ],
+    type: {
+      id: '1101',
+      name: '单选题'
+    },
+    kpoints: [
+      {
+        id: 3747,
+        name: '因式分解法解一元二次方程'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 1,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title:
+          '四川省眉山天府新区清水初级中学2023-2024学年九年级下学期3月月考数学试题',
+        area: {
+          id: '510000',
+          name: '四川省'
+        },
+        type_id: 3,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3459590721773568',
+    course_id: 11,
+    type_id: '1101',
+    kpoint_ids: [3728],
+    catalog_ids: [
+      7635, 5716, 7821, 6126, 6400, 8136, 6602, 7308, 7095, 7450, 6867, 5935,
+      7982
+    ],
+    years: [2024],
+    difficulty: 0.9450000000000001,
+    difficulty_level: 17,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tednhbuIdTtMZE_vaIHSJ7LM"><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">下列方程中：</span><span style="font-family: \'Times New Roman\';">①</span><img  src="https://img.xkw.com/dksih/formula/ad87c2772d38ebe22ac823d0c81c851d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span><span style="font-family: \'Times New Roman\';">②</span><img  src="https://img.xkw.com/dksih/formula/9e1db6780043494236049b080ce72581.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span><span style="font-family: \'Times New Roman\';">③</span><img  src="https://img.xkw.com/dksih/formula/d8c16c213ffabfaeedfdb0c39bb168c7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span><span style="font-family: \'Times New Roman\';">④</span><img  src="https://img.xkw.com/dksih/formula/f40f6f9b4dd42d9959a34378237238e5.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，其中是一元二次方程的有（　　）</span></p><div class=" qml-og"><table class="qml-og" style="width:100%"><tr><td>A.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">个</span></span></td><td>B.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">个</span></span></td><td>C.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">3</span><span style="font-family: 宋体;">个</span></span></td><td colspan="1">D.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">4</span><span style="font-family: 宋体;">个</span></span></td></tr></table></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tednhbuIdTtMZE_vaIHSJ7LM"><span class="qml-an-sq"><span class="qml-an qml-isop ">B</span></span></div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tednhbuIdTtMZE_vaIHSJ7LM"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align: left;"><span style="font-family: 宋体;">本题主要考查了一元二次方程的定义，解题的关键是熟练掌握一元二次方程的定义：只含有一个未知数，未知数的最高次数为</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">的整式方程是一元二次方程．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">根据一元二次方程的定义，逐个判断即可．注意将各个方程进行整理化简后为一般式后，再去进行判断．</span></p></div><div class="qml-seg" seg-name="详解">【详解】<p style="text-align: left;"><span style="font-family: 宋体;">解：</span><span style="font-family: \'Times New Roman\';">①</span><img  src="https://img.xkw.com/dksih/formula/ad87c2772d38ebe22ac823d0c81c851d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，是一元二次方程，符合题意；</span></p><p style="text-align: left;"><span style="font-family: \'Times New Roman\';">②</span><img  src="https://img.xkw.com/dksih/formula/9e1db6780043494236049b080ce72581.svg" class="xkw-math-img" /><span style="font-family: 宋体;">整理为：</span><img  src="https://img.xkw.com/dksih/formula/f3fbaf1d17bb6a96d8e45bb68fd2f222.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，是一元二次方程，符合题意；</span></p><p style="text-align: left;"><span style="font-family: \'Times New Roman\';">③</span><img  src="https://img.xkw.com/dksih/formula/d8c16c213ffabfaeedfdb0c39bb168c7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">不是整式方程，故不是一元二次方程，不符合题意；</span></p><p style="text-align: left;"><span style="font-family: \'Times New Roman\';">④</span><img  src="https://img.xkw.com/dksih/formula/f40f6f9b4dd42d9959a34378237238e5.svg" class="xkw-math-img" /><span style="font-family: 宋体;">含有两个未知数，不是一元二次方程，不符合题意；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">综上：①②是一元二次方程，共</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">个，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">故选：</span><span style="font-family: \'Times New Roman\';">B</span><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-23 06:58:15',
+    paper_type_ids: [3, 4],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 7635,
+        name: '21.1 一元二次方程'
+      },
+      {
+        id: 5716,
+        name: '1 认识一元二次方程'
+      },
+      {
+        id: 7821,
+        name: '1.1 一元二次方程'
+      },
+      {
+        id: 6126,
+        name: '17.1 一元二次方程'
+      },
+      {
+        id: 6400,
+        name: '22.1 一元二次方程'
+      },
+      {
+        id: 8136,
+        name: '2.1 一元二次方程'
+      },
+      {
+        id: 6602,
+        name: '24.1 一元二次方程'
+      },
+      {
+        id: 7308,
+        name: '4.1 一元二次方程'
+      },
+      {
+        id: 7095,
+        name: '1 一元二次方程'
+      },
+      {
+        id: 7450,
+        name: '27.1 一元二次方程'
+      },
+      {
+        id: 6867,
+        name: '16.1 一元二次方程'
+      },
+      {
+        id: 5935,
+        name: '17.1 一元二次方程的概念'
+      },
+      {
+        id: 7982,
+        name: '2.1 一元二次方程'
+      }
+    ],
+    type: {
+      id: '1101',
+      name: '单选题'
+    },
+    kpoints: [
+      {
+        id: 3728,
+        name: '一元二次方程的定义'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 1,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title:
+          '四川省眉山天府新区清水初级中学2023-2024学年九年级下学期3月月考数学试题',
+        area: {
+          id: '510000',
+          name: '四川省'
+        },
+        type_id: 3,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      },
+      {
+        title: '山东省泰安市宁阳县2023-2024学年八年级下学期期中考试数学试题',
+        area: {
+          id: '370000',
+          name: '山东省'
+        },
+        type_id: 4,
+        grade_id: 8,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3460672638132224',
+    course_id: 11,
+    type_id: '110305',
+    kpoint_ids: [3982, 4249, 4317, 4325],
+    catalog_ids: [
+      5752, 6029, 6147, 6442, 6639, 6899, 7128, 7322, 7456, 7649, 7849, 8007,
+      8163
+    ],
+    years: [2024],
+    difficulty: 0.65,
+    difficulty_level: 19,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecTBJq8WrWJ5AgbMEntmzZg"><p style="text-align: left;"><span style="font-family: 宋体;">如图</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">，点</span><img  src="https://img.xkw.com/dksih/formula/8455657dde27aabe6adb7b188e031c11.svg" class="xkw-math-img" /><span style="font-family: 宋体;">是</span><img  src="https://img.xkw.com/dksih/formula/1e31edc5b71c488ca9942d70d9298f01.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的平分线上的一点，点</span><img  src="https://img.xkw.com/dksih/formula/c5db41a1f31d6baee7c69990811edb9f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">、</span><img  src="https://img.xkw.com/dksih/formula/7f9e8449aad35c5d840a3395ea86df6d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">分别在</span><img  src="https://img.xkw.com/dksih/formula/1e31edc5b71c488ca9942d70d9298f01.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的两边</span><img  src="https://img.xkw.com/dksih/formula/68a83fdd2ba72a2dba0b6b10bb3e06b9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">、</span><img  src="https://img.xkw.com/dksih/formula/6aa2b5e09f8ec785c59900a529390a02.svg" class="xkw-math-img" /><span style="font-family: 宋体;">上，若</span><img  src="https://img.xkw.com/dksih/formula/8161c0d1b056e1af9db936205f3f7f66.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p><p style="text-align: left;"><img  height="130" source-file="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/8aa1877c-1d73-4670-829a-412f2f072b70.ai" src="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/8aa1877c-1d73-4670-829a-412f2f072b70.png" width="404" /></p><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecTBJq8WrWJ5AgbMEntmzZg"><p style=""><span class="ques-no">（1）</span><span style="font-family: 宋体;">请直接写出</span><img  src="https://img.xkw.com/dksih/formula/9e52a8f07834cbbbe4224962672fbbb2.svg" class="xkw-math-img" /><span style="font-family: 宋体;">、</span><img  src="https://img.xkw.com/dksih/formula/7d97dc3b752832906de41447bb58a341.svg" class="xkw-math-img" /><span style="font-family: 宋体;">之间的数量关系</span><span style="font-family: \'Times New Roman\';">________</span><span style="font-family: 宋体;">；</span></p></div></div><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecTBJq8WrWJ5AgbMEntmzZg"><p style=""><span class="ques-no">（2）</span><span style="font-family: 宋体;">如图</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">，若</span><img  src="https://img.xkw.com/dksih/formula/4a9eb456c912e01458c19b06e83a5c9d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/fc11331a7b2d2619b40ee6d34c3bd620.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，求四边形</span><img  src="https://img.xkw.com/dksih/formula/ea51de5ca1c2879e7a767a60ce4624cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积；</span></p></div></div><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecTBJq8WrWJ5AgbMEntmzZg"><p style=""><span class="ques-no">（3）</span><span style="font-family: 宋体;">如图</span><span style="font-family: \'Times New Roman\';">3</span><span style="font-family: 宋体;">，在（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）的条件下，连接</span><img  src="https://img.xkw.com/dksih/formula/0dc5c9827dfd0be5a9c85962d6ccbfb1.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/15c0dbe3c080c4c4636c64803e5c1f76.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积是否有最大值？若有请求出</span><img  src="https://img.xkw.com/dksih/formula/15c0dbe3c080c4c4636c64803e5c1f76.svg" class="xkw-math-img" /><span style="font-family: 宋体;">面积的最大值，若没有请说明理由．</span></p></div></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecTBJq8WrWJ5AgbMEntmzZg">（1）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><img  src="https://img.xkw.com/dksih/formula/93b5d552bf92224ac9332e93741fcfb8.svg" class="xkw-math-img" /></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><span style="font-family: 宋体;">四边形</span><img  src="https://img.xkw.com/dksih/formula/ea51de5ca1c2879e7a767a60ce4624cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积为</span><img  src="https://img.xkw.com/dksih/formula/41322821ce31416fdac8dd6e0aa41c71.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><img  src="https://img.xkw.com/dksih/formula/15c0dbe3c080c4c4636c64803e5c1f76.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积有最大值，最大值为</span><img  src="https://img.xkw.com/dksih/formula/adbd3e8cf8325999cde03adf845d3dd0.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecTBJq8WrWJ5AgbMEntmzZg"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）作</span><img  src="https://img.xkw.com/dksih/formula/f7aaccd4f94fac8096a6cf70d94eb589.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/f36ac646f3e8aed30f54f30e90d28bd6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，等角的补角相等求得</span><img  src="https://img.xkw.com/dksih/formula/6eddced2f58200e8c890108996540be7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，由角平分线的性质求得</span><img  src="https://img.xkw.com/dksih/formula/07e395831eddeca6f5ae769b2dfa2b4d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，利用</span><img  src="https://img.xkw.com/dksih/formula/9beb8b968744573e593ac28451c69729.svg" class="xkw-math-img" /><span style="font-family: 宋体;">证明</span><img  src="https://img.xkw.com/dksih/formula/875bc2ee587f24e2c5a300376be92424.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，即可证明</span><img  src="https://img.xkw.com/dksih/formula/93b5d552bf92224ac9332e93741fcfb8.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）作</span><img  src="https://img.xkw.com/dksih/formula/f7aaccd4f94fac8096a6cf70d94eb589.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/f36ac646f3e8aed30f54f30e90d28bd6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，由（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）得</span><img  src="https://img.xkw.com/dksih/formula/6406d9e72e6ca6f104eaf1ca44b518f1.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，再证明</span><img  src="https://img.xkw.com/dksih/formula/4253c62f5b50b0650aac847d5bf49cc3.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，推出四边形</span><img  src="https://img.xkw.com/dksih/formula/ea51de5ca1c2879e7a767a60ce4624cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积</span><img  src="https://img.xkw.com/dksih/formula/1c9efad517a08ec564a74bbb6b6b1348.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，再根据直角三角形的性质结合勾股定理，利用三角形的面积公式求解即可；</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">3</span><span style="font-family: 宋体;">）求得</span><img  src="https://img.xkw.com/dksih/formula/fd37b4ba7cd3d8305b9c89a11b67f217.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，设</span><img  src="https://img.xkw.com/dksih/formula/8c7a3d679b4dae63575903387a76ce45.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则</span><img  src="https://img.xkw.com/dksih/formula/09299d005422d06a9af900de1170d817.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，求得</span><img  src="https://img.xkw.com/dksih/formula/c0d80b08a34b5252334d31d902777d18.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，作</span><img  src="https://img.xkw.com/dksih/formula/23f4eb640505099730001c4cbe65c3cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">于点</span><img  src="https://img.xkw.com/dksih/formula/895dc3dc3a6606ff487a4c4863e18509.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，求得</span><img  src="https://img.xkw.com/dksih/formula/73c500120c6ef22332ca327101c274d0.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，利用三角形面积公式列出关于</span><img  src="https://img.xkw.com/dksih/formula/81dea63b8ce3e51adf66cf7b9982a248.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的二次函数，利用二次函数的性质求解即可．</span></p></div><div class="qml-exps-sq" id-container="question">(1)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：</span><img  src="https://img.xkw.com/dksih/formula/93b5d552bf92224ac9332e93741fcfb8.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">作</span><img  src="https://img.xkw.com/dksih/formula/f7aaccd4f94fac8096a6cf70d94eb589.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/f36ac646f3e8aed30f54f30e90d28bd6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，垂足分别为</span><img  src="https://img.xkw.com/dksih/formula/e6670479a0083dd2dfd5ad55b47b1ab6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  height="110" source-file="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/10371c7e-ca55-4edf-a3d8-038dcab48c68.ai" src="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/10371c7e-ca55-4edf-a3d8-038dcab48c68.png" width="120" /></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/8161c0d1b056e1af9db936205f3f7f66.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/92449f6efdb6a1fd83def6a1406ff376.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/10a3c811aa346649e7503e104e73e391.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/6eddced2f58200e8c890108996540be7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵点</span><img  src="https://img.xkw.com/dksih/formula/8455657dde27aabe6adb7b188e031c11.svg" class="xkw-math-img" /><span style="font-family: 宋体;">是</span><img  src="https://img.xkw.com/dksih/formula/1e31edc5b71c488ca9942d70d9298f01.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的平分线上的一点，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/07e395831eddeca6f5ae769b2dfa2b4d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/71b08632f9251642ef268d7f85a98091.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/93b5d552bf92224ac9332e93741fcfb8.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">故答案为：</span><img  src="https://img.xkw.com/dksih/formula/93b5d552bf92224ac9332e93741fcfb8.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p></div><div class="qml-exps-sq" id-container="question">(2)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：作</span><img  src="https://img.xkw.com/dksih/formula/f7aaccd4f94fac8096a6cf70d94eb589.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/f36ac646f3e8aed30f54f30e90d28bd6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，垂足分别为</span><img  src="https://img.xkw.com/dksih/formula/e6670479a0083dd2dfd5ad55b47b1ab6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  height="109" source-file="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/6bef2848-3a6e-4770-8edf-31b5a433c98a.ai" src="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/6bef2848-3a6e-4770-8edf-31b5a433c98a.png" width="119" /></p><p style="text-align: left;"><span style="font-family: 宋体;">由（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）得</span><img  src="https://img.xkw.com/dksih/formula/875bc2ee587f24e2c5a300376be92424.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则</span><img  src="https://img.xkw.com/dksih/formula/6406d9e72e6ca6f104eaf1ca44b518f1.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/07e395831eddeca6f5ae769b2dfa2b4d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/d9977997af4da9f1968b1ddb0f136a66.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/4253c62f5b50b0650aac847d5bf49cc3.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/94d50d2149f3802b4e1c44dc157d35e0.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴四边形</span><img  src="https://img.xkw.com/dksih/formula/ea51de5ca1c2879e7a767a60ce4624cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积</span><img  src="https://img.xkw.com/dksih/formula/1c9efad517a08ec564a74bbb6b6b1348.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/4a9eb456c912e01458c19b06e83a5c9d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/75ebe345ba517b02549018d99ba2f52a.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/fc11331a7b2d2619b40ee6d34c3bd620.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/4836483799ca38b92d5b802cf9d43b87.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/125c1497b5feb0975a8778d1197b86d4.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴四边形</span><img  src="https://img.xkw.com/dksih/formula/ea51de5ca1c2879e7a767a60ce4624cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积</span><img  src="https://img.xkw.com/dksih/formula/4d1b88e76d9c46c33de2f04cd774304f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p></div><div class="qml-exps-sq" id-container="question">(3)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：</span><img  src="https://img.xkw.com/dksih/formula/15c0dbe3c080c4c4636c64803e5c1f76.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积有最大值，最大值为</span><img  src="https://img.xkw.com/dksih/formula/adbd3e8cf8325999cde03adf845d3dd0.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">由（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）得</span><img  src="https://img.xkw.com/dksih/formula/52be30f3c43c6fa693d375f4d613fbbc.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/875bc2ee587f24e2c5a300376be92424.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/fd37b4ba7cd3d8305b9c89a11b67f217.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/972a7fad30d9b67df132ac00fec2e9a5.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">设</span><img  src="https://img.xkw.com/dksih/formula/8c7a3d679b4dae63575903387a76ce45.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则</span><img  src="https://img.xkw.com/dksih/formula/09299d005422d06a9af900de1170d817.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/af0aaf66215e4b19a9f7ba1993ecb3c4.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">作</span><img  src="https://img.xkw.com/dksih/formula/23f4eb640505099730001c4cbe65c3cd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">于点</span><img  src="https://img.xkw.com/dksih/formula/895dc3dc3a6606ff487a4c4863e18509.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  height="109" source-file="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/3e5774f2-32ba-47f0-a70b-5206d5677362.ai" src="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/3e5774f2-32ba-47f0-a70b-5206d5677362.png" width="119" /></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/4a9eb456c912e01458c19b06e83a5c9d.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/2f10a4ab56a68bb96bad3b656d688b3c.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">同理可得</span><img  src="https://img.xkw.com/dksih/formula/d0401989c044c2d76464d0aec9968ffd.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/9ad33d69ebe3f48d585bebb65ac6ef61.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/5527acfac8b03eb06c91236e8d2a130b.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴当</span><img  src="https://img.xkw.com/dksih/formula/d41e871aeb743413ddc5a61381f1612c.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><img  src="https://img.xkw.com/dksih/formula/b5cbff84327e964f912a54032e76ccc9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">有最大值，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">最大值为</span><img  src="https://img.xkw.com/dksih/formula/045448ac2d1f6f2c868b61d91a01aece.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p></div><div class="qml-seg" seg-name="点睛">【点睛】<p style="text-align: left;"><span style="font-family: 宋体;">本题考查了解平分线的性质，直角三角形的性质，二次函数的应用，全等三角形的判定和性质，第</span><span style="font-family: \'Times New Roman\';">3</span><span style="font-family: 宋体;">问利用二次函数的性质求解是解题的关键．</span></p></div></div>',
+    create_date: '2024-03-24 19:39:25',
+    paper_type_ids: [3],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 5752,
+        name: '4 二次函数的应用'
+      },
+      {
+        id: 6029,
+        name: '26.3 二次函数y=ax²＋bx＋c的图像'
+      },
+      {
+        id: 6147,
+        name: '21.4 二次函数的应用'
+      },
+      {
+        id: 6442,
+        name: '26.3 实践与探索'
+      },
+      {
+        id: 6639,
+        name: '30.4 二次函数的应用'
+      },
+      {
+        id: 6899,
+        name: '19.4 二次函数的应用'
+      },
+      {
+        id: 7128,
+        name: '6 二次函数的应用'
+      },
+      {
+        id: 7322,
+        name: '5.7 二次函数的应用'
+      },
+      {
+        id: 7456,
+        name: '28.3 二次函数与实际问题'
+      },
+      {
+        id: 7649,
+        name: '22.3 实际问题与二次函数'
+      },
+      {
+        id: 7849,
+        name: '5.5 用二次函数解决问题'
+      },
+      {
+        id: 8007,
+        name: '1.5 二次函数的应用'
+      },
+      {
+        id: 8163,
+        name: '1.4 二次函数的应用'
+      }
+    ],
+    type: {
+      id: '110305',
+      name: '问答题'
+    },
+    kpoints: [
+      {
+        id: 3982,
+        name: '图形问题(实际问题与二次函数)'
+      },
+      {
+        id: 4249,
+        name: '全等的性质和HL综合（HL）'
+      },
+      {
+        id: 4317,
+        name: '含30度角的直角三角形'
+      },
+      {
+        id: 4325,
+        name: '用勾股定理解三角形'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 0,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title:
+          '陕西省榆林市苏州中学2023-2024学年八年级下学期第一次月考数学试题',
+        area: {
+          id: '610000',
+          name: '陕西省'
+        },
+        type_id: 3,
+        grade_id: 8,
+        term: 'NEXT',
+        year: 2024
+      },
+      {
+        title:
+          '陕西省西安市铁一中学2023-2024学年八年级下学期第一次月考数学试题',
+        area: {
+          id: '610000',
+          name: '陕西省'
+        },
+        type_id: 3,
+        grade_id: 8,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3459590722174976',
+    course_id: 11,
+    type_id: '1101',
+    kpoint_ids: [3749, 3732],
+    catalog_ids: [
+      6603, 7451, 5937, 7640, 5720, 7823, 6129, 6406, 8139, 7313, 7099, 6871,
+      7985
+    ],
+    years: [2024],
+    difficulty: 0.65,
+    difficulty_level: 19,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeoSEUhqkyUeiMCE8AkqBId"><p style="text-align:justify;word-break:break-word"><span style="font-family: \'Times New Roman\';font-style: italic;">m</span><span style="font-family: 宋体;">，</span><span style="font-family: \'Times New Roman\';font-style: italic;">n</span><span style="font-family: 宋体;">是方程</span><img  src="https://img.xkw.com/dksih/formula/25a052bd1abec82dd8064a0ab54a7741.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的两根，则代数式</span><img  src="https://img.xkw.com/dksih/formula/8f28b1ad5fb5c7a66b0f19da9b84a5e7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的值是（　　）</span></p><div class=" qml-og"><table class="qml-og" style="width:100%"><tr><td>A.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">2022</span></span></td><td>B.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">2023</span></span></td><td>C.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">2024</span></span></td><td colspan="1">D.&nbsp;<span class="qml-op"><span style="font-family: \'Times New Roman\';">2025</span></span></td></tr></table></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeoSEUhqkyUeiMCE8AkqBId"><span class="qml-an-sq"><span class="qml-an qml-isop ">C</span></span></div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeoSEUhqkyUeiMCE8AkqBId"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">本题主要考查了一元二次方程根与系数的关系，一元二次方程解的定义，先根据一元二次方程解的定义得到</span><img  src="https://img.xkw.com/dksih/formula/07d139bfa2be53f19a9b69140bed3081.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/27d643decfc5cb0f122ea6d830df6164.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，再由根与系数的关系得到</span><img  src="https://img.xkw.com/dksih/formula/63173160dbfbefdb0c3994e3871aa619.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，进而得到</span><img  src="https://img.xkw.com/dksih/formula/2ad78b4589a510270ee4abec9b44a77f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/517706d00020015912868712ce36fdfb.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，据此代值计算即可．</span></p></div><div class="qml-seg" seg-name="详解">【详解】<p style="text-align: left;"><span style="font-family: 宋体;">解：</span><span style="font-family: \'Times New Roman\';">∵</span><span style="font-family: \'Times New Roman\';font-style: italic;">m</span><span style="font-family: 宋体;">，</span><span style="font-family: \'Times New Roman\';font-style: italic;">n</span><span style="font-family: 宋体;">是方程</span><img  src="https://img.xkw.com/dksih/formula/25a052bd1abec82dd8064a0ab54a7741.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的两根，</span></p><p style="text-align: left;"><span style="font-family: \'Times New Roman\';">∴</span><img  src="https://img.xkw.com/dksih/formula/07d139bfa2be53f19a9b69140bed3081.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/27d643decfc5cb0f122ea6d830df6164.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/63173160dbfbefdb0c3994e3871aa619.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/2ad78b4589a510270ee4abec9b44a77f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/517706d00020015912868712ce36fdfb.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/8f28b1ad5fb5c7a66b0f19da9b84a5e7.svg" class="xkw-math-img" /></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/dd61c8590ecc3827a5984bcb69c230ce.svg" class="xkw-math-img" /></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/8877bbd94dd2039b2bb24d3d5cdb1fe7.svg" class="xkw-math-img" /></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/7ee0e4be8886d9c8d36df353c6120f94.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">故选；</span><span style="font-family: \'Times New Roman\';">C</span><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-23 06:58:15',
+    paper_type_ids: [3, 27],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 6603,
+        name: '24.2 解一元二次方程'
+      },
+      {
+        id: 7451,
+        name: '27.2 解一元二次方程'
+      },
+      {
+        id: 5937,
+        name: '17.2 一元二次方程的解法'
+      },
+      {
+        id: 7640,
+        name: '*21.2.4 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 5720,
+        name: '*5 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 7823,
+        name: '*1.3 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 6129,
+        name: '*17.4 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 6406,
+        name: '＊5. 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 8139,
+        name: '2.4 一元二次方程根与系数的关系（选学）'
+      },
+      {
+        id: 7313,
+        name: '*4.6 一元二次方程根与系数的关系'
+      },
+      {
+        id: 7099,
+        name: '*5 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 6871,
+        name: '16.2.3 公式法'
+      },
+      {
+        id: 7985,
+        name: '*2.4 一元二次方程根与系数的关系'
+      }
+    ],
+    type: {
+      id: '1101',
+      name: '单选题'
+    },
+    kpoints: [
+      {
+        id: 3749,
+        name: '一元二次方程的根与系数的关系'
+      },
+      {
+        id: 3732,
+        name: '一元二次方程的解'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 1,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title:
+          '黑龙江省绥化市肇东市四站中学校2023-2024学年八年级下学期月考数学试题',
+        area: {
+          id: '230000',
+          name: '黑龙江省'
+        },
+        type_id: 3,
+        grade_id: 8,
+        term: 'NEXT',
+        year: 2024
+      },
+      {
+        title:
+          '四川省眉山天府新区清水初级中学2023-2024学年九年级下学期3月月考数学试题',
+        area: {
+          id: '510000',
+          name: '四川省'
+        },
+        type_id: 3,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      },
+      {
+        title: '2024年黑龙江省大庆市肇源县中考二模数学试题',
+        area: {
+          id: '230000',
+          name: '黑龙江省'
+        },
+        type_id: 27,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      },
+      {
+        title:
+          '辽宁省沈阳市浑南区东北育才学校2023-2024学年八年级下学期第一次月考数学试题',
+        area: {
+          id: '210000',
+          name: '辽宁省'
+        },
+        type_id: 3,
+        grade_id: 8,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3460662349422592',
+    course_id: 11,
+    type_id: '110303',
+    kpoint_ids: [3757],
+    catalog_ids: [
+      7641, 5721, 7824, 6130, 6407, 8138, 6605, 7314, 7100, 7452, 6874, 5940,
+      7986
+    ],
+    years: [2023],
+    difficulty: 0.8500000000000001,
+    difficulty_level: 18,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecxM7iaXFcxnuNps9rLUYvT"><p style="text-align: left;"><span style="font-family: 宋体;">如图，长方形</span><img  src="https://img.xkw.com/dksih/formula/411b38a18046fea8e9fab1f9f9b80a5f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的长是</span><img  src="https://img.xkw.com/dksih/formula/ee3160fce05b551569b8c7b5de6dd8b6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，宽是</span><img  src="https://img.xkw.com/dksih/formula/cc933c59790e1e90837c1ffe02f449f9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，把长减少</span><img  src="https://img.xkw.com/dksih/formula/f3a9eed64d225267a58cd001db67e2a3.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，宽增加</span><img  src="https://img.xkw.com/dksih/formula/c78d0ab561d0c9bb9099772c596af8bf.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，得到一个正方形</span><img  src="https://img.xkw.com/dksih/formula/a8d0e8404f347a0eb4c76f4d25d9bdac.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，且长方形</span><img  src="https://img.xkw.com/dksih/formula/411b38a18046fea8e9fab1f9f9b80a5f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">和正方形</span><img  src="https://img.xkw.com/dksih/formula/a8d0e8404f347a0eb4c76f4d25d9bdac.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的面积相等．请列出关于</span><span style="font-style: italic;font-family: \'Times New Roman\';">x</span><span style="font-family: 宋体;">、</span><span style="font-style: italic;font-family: \'Times New Roman\';">y</span><span style="font-family: 宋体;">的方程组，并求出长方形</span><img  src="https://img.xkw.com/dksih/formula/411b38a18046fea8e9fab1f9f9b80a5f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的长、宽各是多少</span><img  src="https://img.xkw.com/dksih/formula/9efa9fbcfb9595e2f031aa691db4564b.svg" class="xkw-math-img" /><span style="font-family: 宋体;">？</span></p><p style="text-align: left;"><img  height="149" source-file="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/87332c8d-b73d-4f23-9944-85a0f4823d99.ai" src="https://img.xkw.com/dksih/QBM/editorImg/2024/3/26/87332c8d-b73d-4f23-9944-85a0f4823d99.png" width="209" /></p></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecxM7iaXFcxnuNps9rLUYvT"><span class="qml-an-sq"><span class="qml-an  "><img  src="https://img.xkw.com/dksih/formula/5f2c6e8bd9a19d79b0955ef3948c102a.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，长方形</span><img  src="https://img.xkw.com/dksih/formula/411b38a18046fea8e9fab1f9f9b80a5f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的长、宽各是</span><img  src="https://img.xkw.com/dksih/formula/5ebdc8b77e3bff7f8617ea55edc71516.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/ff7f6d64e5a8e1b1100c89b1f86becf9.svg" class="xkw-math-img" /></span></span></div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tecxM7iaXFcxnuNps9rLUYvT"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">本题主要考查了二元一次方程组在几何图形中的应用，根据正方形边长相等可得方程</span><img  src="https://img.xkw.com/dksih/formula/ac50f4cef9383fd58a2148c688e7b72a.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，根据两个阴影部分面积相等可得方程</span><img  src="https://img.xkw.com/dksih/formula/a008f80bc54ba9660f820d8903bb60e3.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，据此列出方程组求解即可．</span></p></div><div class="qml-seg" seg-name="详解">【详解】<p style="text-align: left;"><span style="font-family: 宋体;">解：由题意得，</span><img  src="https://img.xkw.com/dksih/formula/5f2c6e8bd9a19d79b0955ef3948c102a.svg" class="xkw-math-img" /><span style="font-family: \'Times New Roman\';"> </span><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">解得</span><img  src="https://img.xkw.com/dksih/formula/a9138efd8287d168625195c0fc24d7f5.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴长方形</span><img  src="https://img.xkw.com/dksih/formula/411b38a18046fea8e9fab1f9f9b80a5f.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的长、宽各是</span><img  src="https://img.xkw.com/dksih/formula/5ebdc8b77e3bff7f8617ea55edc71516.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/ff7f6d64e5a8e1b1100c89b1f86becf9.svg" class="xkw-math-img" /></p></div></div>',
+    create_date: '2024-03-24 19:18:29',
+    paper_type_ids: [3],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 7641,
+        name: '21.3 实际问题与一元二次方程'
+      },
+      {
+        id: 5721,
+        name: '6 应用一元二次方程'
+      },
+      {
+        id: 7824,
+        name: '1.4 用一元二次方程解决问题'
+      },
+      {
+        id: 6130,
+        name: '17.5 一元二次方程的应用'
+      },
+      {
+        id: 6407,
+        name: '22.3 实践与探索'
+      },
+      {
+        id: 8138,
+        name: '2.3 一元二次方程的应用'
+      },
+      {
+        id: 6605,
+        name: '24.4 一元二次方程的应用'
+      },
+      {
+        id: 7314,
+        name: '4.7 一元二次方程的应用'
+      },
+      {
+        id: 7100,
+        name: '6 一元二次方程的应用'
+      },
+      {
+        id: 7452,
+        name: '27.3 一元二次方程与实际问题'
+      },
+      {
+        id: 6874,
+        name: '16.3 列方程解应用问题'
+      },
+      {
+        id: 5940,
+        name: '17.4 一元二次方程的应用'
+      },
+      {
+        id: 7986,
+        name: '2.5 一元二次方程的应用'
+      }
+    ],
+    type: {
+      id: '110303',
+      name: '应用题'
+    },
+    kpoints: [
+      {
+        id: 3757,
+        name: '与图形有关的问题(一元二次方程的应用)'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 0,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title:
+          '湖北省武汉市武汉一初慧泉中学2022-2023学年七年级下学期月考数学试题',
+        area: {
+          id: '420000',
+          name: '湖北省'
+        },
+        type_id: 3,
+        grade_id: 7,
+        term: 'NEXT',
+        year: 2023
+      }
+    ]
+  },
+  {
+    id: '3459611827445760',
+    course_id: 11,
+    type_id: '1101',
+    kpoint_ids: [3938, 3956, 52662],
+    catalog_ids: [
+      6029, 6899, 7648, 5753, 7848, 6146, 6440, 8162, 6640, 7321, 7129, 7455,
+      8006
+    ],
+    years: [2024],
+    difficulty: 0.65,
+    difficulty_level: 19,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teerW7lMgbbAkWBH95U8OmSC"><p style="text-align: left;"><span style="font-family: 宋体;">关于二次函数</span><img  src="https://img.xkw.com/dksih/formula/d373dbbac9f7f782550f510c046c6cb6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的下列说法中，正确的是（</span><span style="font-family: \'Times New Roman\';"><span style="font-family: \'Times New Roman\'" qml-space-size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="font-family: 宋体;">）</span></p><div class=" qml-og"><table class="qml-og" style="width:100%"><tr><td>A.&nbsp;<span class="qml-op"><span style="font-family: 宋体;">无论</span><span style="font-family: \'Times New Roman\';font-style: italic;">a</span><span style="font-family: 宋体;">取范围内的何值，该二次函数的图象都经过</span><img  src="https://img.xkw.com/dksih/formula/53a948d2f7732d7f03e986c63712089b.svg" class="xkw-math-img" /><span style="font-family: 宋体;">和</span><img  src="https://img.xkw.com/dksih/formula/623afc24f2227004b0e1b3922dfb954b.svg" class="xkw-math-img" /><span style="font-family: 宋体;">这两个定点</span></span></td></tr><tr><td>B.&nbsp;<span class="qml-op"><span style="font-family: 宋体;">当</span><img  src="https://img.xkw.com/dksih/formula/707ea658f3a9359f5740d5aab48f7948.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，该二次函数取到最小值</span></span></td></tr><tr><td>C.&nbsp;<span class="qml-op"><span style="font-family: 宋体;">将该二次函数的图象向左平移</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">个单位，则当</span><img  src="https://img.xkw.com/dksih/formula/9e541ea2f855f981c96207070683d388.svg" class="xkw-math-img" /><span style="font-family: 宋体;">或</span><img  src="https://img.xkw.com/dksih/formula/0c0aa2ef928b6e3341d0a0dc6d8055b9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><img  src="https://img.xkw.com/dksih/formula/d634ea3ee84dca7c5b59f77d77464ee9.svg" class="xkw-math-img" /></span></td></tr><tr><td colspan="1">D.&nbsp;<span class="qml-op"><span style="font-family: 宋体;">设该二次函数与</span><span style="font-family: \'Times New Roman\';font-style: italic;">x</span><span style="font-family: 宋体;">轴的两个交点的横坐标分别为</span><img  src="https://img.xkw.com/dksih/formula/f3b70aeff7c01e637f9caac346798ff8.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则</span><img  src="https://img.xkw.com/dksih/formula/a91b2c81d40613edf529c1bc66e8022a.svg" class="xkw-math-img" /></span></td></tr></table></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teerW7lMgbbAkWBH95U8OmSC"><span class="qml-an-sq"><span class="qml-an qml-isop ">C</span></span></div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teerW7lMgbbAkWBH95U8OmSC"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">本题考查了二次函数的图象和性质．先求得该二次函数的图象经过点</span><img  src="https://img.xkw.com/dksih/formula/781b089662bf214668aae489bda55497.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/b1b4d87e5352d9322009e4d62b797c1e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，求得对称轴为直线</span><img  src="https://img.xkw.com/dksih/formula/707ea658f3a9359f5740d5aab48f7948.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，据此逐一判断各选项即可．</span></p></div><div class="qml-seg" seg-name="详解">【详解】<p style="text-align: left;"><span style="font-family: 宋体;">解：当</span><img  src="https://img.xkw.com/dksih/formula/9b384412acba251d87902ab928902f16.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><img  src="https://img.xkw.com/dksih/formula/107babba45f110012183dc4dc54490f7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，即该二次函数的图象经过点</span><img  src="https://img.xkw.com/dksih/formula/781b089662bf214668aae489bda55497.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，故选项</span><span style="font-family: \'Times New Roman\';">A</span><span style="font-family: 宋体;">不正确；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">当</span><img  src="https://img.xkw.com/dksih/formula/e55aa0a20848c37c1892c567b2315e04.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><img  src="https://img.xkw.com/dksih/formula/107babba45f110012183dc4dc54490f7.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则该二次函数的图象经过点</span><img  src="https://img.xkw.com/dksih/formula/b1b4d87e5352d9322009e4d62b797c1e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴该二次函数图象的对称轴为直线</span><img  src="https://img.xkw.com/dksih/formula/acac331bb1aeba6c880a915cc91f7ae2.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵</span><img  src="https://img.xkw.com/dksih/formula/9e10e1c43b86a8cd4360ca9b57232164.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴当</span><img  src="https://img.xkw.com/dksih/formula/707ea658f3a9359f5740d5aab48f7948.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，该二次函数取到最大值，故选项</span><span style="font-family: \'Times New Roman\';">B</span><span style="font-family: 宋体;">不正确；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵该二次函数的图象经过点</span><img  src="https://img.xkw.com/dksih/formula/781b089662bf214668aae489bda55497.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/b1b4d87e5352d9322009e4d62b797c1e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，将该二次函数的图象向左平移</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">个单位，则经过点</span><img  src="https://img.xkw.com/dksih/formula/4772c835cbe626040ecc4df30e6f0ccc.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/4bc387da3c10d0ffde2a41a935cc1331.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴则当</span><img  src="https://img.xkw.com/dksih/formula/9e541ea2f855f981c96207070683d388.svg" class="xkw-math-img" /><span style="font-family: 宋体;">或</span><img  src="https://img.xkw.com/dksih/formula/0c0aa2ef928b6e3341d0a0dc6d8055b9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，</span><img  src="https://img.xkw.com/dksih/formula/d634ea3ee84dca7c5b59f77d77464ee9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，故选项</span><span style="font-family: \'Times New Roman\';">C</span><span style="font-family: 宋体;">正确；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∵该二次函数的图象经过点</span><img  src="https://img.xkw.com/dksih/formula/781b089662bf214668aae489bda55497.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/b1b4d87e5352d9322009e4d62b797c1e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，开口向下，且二次函数与</span><span style="font-style: italic;font-family: \'Times New Roman\';">x</span><span style="font-family: 宋体;">轴的两个交点的横坐标分别为</span><img  src="https://img.xkw.com/dksih/formula/00d839cc8b7c31633ffcc79580cdb58c.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">∴</span><img  src="https://img.xkw.com/dksih/formula/2a8ba210c77badc54ad92cc04049ea38.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，故选项</span><span style="font-family: \'Times New Roman\';">D</span><span style="font-family: 宋体;">不正确，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">故选：</span><span style="font-family: \'Times New Roman\';">C</span><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-23 07:41:11',
+    paper_type_ids: [29],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 6029,
+        name: '26.3 二次函数y=ax²＋bx＋c的图像'
+      },
+      {
+        id: 6899,
+        name: '19.4 二次函数的应用'
+      },
+      {
+        id: 7648,
+        name: '22.2 二次函数与一元二次方程'
+      },
+      {
+        id: 5753,
+        name: '5 二次函数与一元二次方程'
+      },
+      {
+        id: 7848,
+        name: '5.4 二次函数与一元二次方程'
+      },
+      {
+        id: 6146,
+        name: '21.3 二次函数与一元二次方程'
+      },
+      {
+        id: 6440,
+        name: '2. 二次函数y=ax²＋bx＋c的图象与性质'
+      },
+      {
+        id: 8162,
+        name: '1.3 二次函数的性质'
+      },
+      {
+        id: 6640,
+        name: '30.5 二次函数与一元二次方程的关系'
+      },
+      {
+        id: 7321,
+        name: '5.6 二次函数的图象与一元二次方程'
+      },
+      {
+        id: 7129,
+        name: '7 二次函数与一元二次方程'
+      },
+      {
+        id: 7455,
+        name: '28.2 二次函数与一元二次方程'
+      },
+      {
+        id: 8006,
+        name: '1.4 二次函数与一元二次方程的联系'
+      }
+    ],
+    type: {
+      id: '1101',
+      name: '单选题'
+    },
+    kpoints: [
+      {
+        id: 3938,
+        name: 'y=ax²+bx+c的图象与性质'
+      },
+      {
+        id: 3956,
+        name: '二次函数图象的平移'
+      },
+      {
+        id: 52662,
+        name: '抛物线与x轴的交点问题'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 1,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title: '2024年浙江省初中名校发展共同体3月中考模拟联考数学模拟预测题',
+        area: {
+          id: '330000',
+          name: '浙江省'
+        },
+        type_id: 29,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3460747698724864',
+    course_id: 11,
+    type_id: '110303',
+    kpoint_ids: [3756, 3343],
+    catalog_ids: [
+      7641, 5721, 7824, 6130, 6407, 8138, 6605, 7314, 7100, 7452, 6874, 5940,
+      7986
+    ],
+    years: [2024],
+    difficulty: 0.65,
+    difficulty_level: 19,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeo_fEHclQ_JaQRmQluLLjW"><p style="text-align: left;"><span style="font-family: 宋体;">“双减”在行动，教育在提质．由长沙市教育局倾力打造的“名师云课堂”已于</span><span style="font-family: \'Times New Roman\';">2023</span><span style="font-family: 宋体;">年</span><span style="font-family: \'Times New Roman\';">9</span><span style="font-family: 宋体;">月</span><span style="font-family: \'Times New Roman\';">9</span><span style="font-family: 宋体;">日正式上线．每周六（除节假日外）上午九点，“名师云课堂”都会如约而至．据不完全统计，第一周收看人数为</span><span style="font-family: \'Times New Roman\';">24200</span><span style="font-family: 宋体;">人，第三周收看人数为</span><span style="font-family: \'Times New Roman\';">29282</span><span style="font-family: 宋体;">人．假设每周收看人数的平均增长率相同．</span></p><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeo_fEHclQ_JaQRmQluLLjW"><p style=""><span class="ques-no">（1）</span><span style="font-family: 宋体;">求第一周到第三周“名师云课堂”收看人数的平均增长率；</span></p></div></div><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeo_fEHclQ_JaQRmQluLLjW"><p style=""><span class="ques-no">（2）</span><span style="font-family: 宋体;">按照（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）中平均增长率．试估计第四周有多少人收看“名师云课堂”．（结果保留整数）</span></p></div></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeo_fEHclQ_JaQRmQluLLjW">（1）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><span style="font-family: 宋体;">第一周到第三周“名师云课堂”收看人数的平均增长率为</span><img  src="https://img.xkw.com/dksih/formula/f733b1ceeead9ff892539d46a23f3626.svg" class="xkw-math-img" /></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><span style="font-family: 宋体;">估计第四周有</span><span style="font-family: \'Times New Roman\';">32210</span><span style="font-family: 宋体;">人收看“名师云课堂”</span></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teeo_fEHclQ_JaQRmQluLLjW"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align: left;"><span style="font-family: 宋体;">本题考查了一元二次方程的应用、有理数的混合运算的应用，理解题意，找准等量关系，正确列出一元二次方程是解此题的关键．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）设第一周到第三周“名师云课堂”收看人数的平均增长率为</span><img  src="https://img.xkw.com/dksih/formula/81dea63b8ce3e51adf66cf7b9982a248.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，根据题意列出一元二次方程，解方程即可得出答案；</span></p><p style="text-align: left;"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）根据第四周收看人数</span><img  src="https://img.xkw.com/dksih/formula/6706fe00b4e231e62d9ecbec567d526b.svg" class="xkw-math-img" /><span style="font-family: 宋体;">第三周收看人数</span><img  src="https://img.xkw.com/dksih/formula/2468403b3eba9e40bfa36f464e927738.svg" class="xkw-math-img" /><span style="font-family: 宋体;">（</span><img  src="https://img.xkw.com/dksih/formula/9c5fb5a6e42736a5d6afc9771bc4d299.svg" class="xkw-math-img" /><span style="font-family: 宋体;">增长率），即可得出答案．</span></p></div><div class="qml-exps-sq" id-container="question">(1)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：设第一周到第三周“名师云课堂”收看人数的平均增长率为</span><img  src="https://img.xkw.com/dksih/formula/81dea63b8ce3e51adf66cf7b9982a248.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">则</span><img  src="https://img.xkw.com/dksih/formula/919154d8aa3c1231d2d87f2e7a161147.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">解得</span><img  src="https://img.xkw.com/dksih/formula/2adad06049ead205c1a3b21f37fccffc.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/b9afb74f7e972be5dd52bb930a884637.svg" class="xkw-math-img" /><span style="font-family: 宋体;">（舍）．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">答：第一周到第三周“名师云课堂”收看人数的平均增长率为</span><img  src="https://img.xkw.com/dksih/formula/f733b1ceeead9ff892539d46a23f3626.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p></div><div class="qml-exps-sq" id-container="question">(2)小问详解： <p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/b9cdadc95d97edf29b4a45460da20c91.svg" class="xkw-math-img" /><span style="font-family: 宋体;">（人）．</span></p><p style="text-align: left;"><span style="font-family: 宋体;">答：估计第四周有</span><span style="font-family: \'Times New Roman\';">32210</span><span style="font-family: 宋体;">人收看“名师云课堂”．</span></p></div></div>',
+    create_date: '2024-03-24 22:12:07',
+    paper_type_ids: [26],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 7641,
+        name: '21.3 实际问题与一元二次方程'
+      },
+      {
+        id: 5721,
+        name: '6 应用一元二次方程'
+      },
+      {
+        id: 7824,
+        name: '1.4 用一元二次方程解决问题'
+      },
+      {
+        id: 6130,
+        name: '17.5 一元二次方程的应用'
+      },
+      {
+        id: 6407,
+        name: '22.3 实践与探索'
+      },
+      {
+        id: 8138,
+        name: '2.3 一元二次方程的应用'
+      },
+      {
+        id: 6605,
+        name: '24.4 一元二次方程的应用'
+      },
+      {
+        id: 7314,
+        name: '4.7 一元二次方程的应用'
+      },
+      {
+        id: 7100,
+        name: '6 一元二次方程的应用'
+      },
+      {
+        id: 7452,
+        name: '27.3 一元二次方程与实际问题'
+      },
+      {
+        id: 6874,
+        name: '16.3 列方程解应用问题'
+      },
+      {
+        id: 5940,
+        name: '17.4 一元二次方程的应用'
+      },
+      {
+        id: 7986,
+        name: '2.5 一元二次方程的应用'
+      }
+    ],
+    type: {
+      id: '110303',
+      name: '应用题'
+    },
+    kpoints: [
+      {
+        id: 3756,
+        name: '增长率问题(一元二次方程的应用)'
+      },
+      {
+        id: 3343,
+        name: '有理数四则混合运算的实际应用'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 0,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: []
+  },
+  {
+    id: '3459387153178624',
+    course_id: 11,
+    type_id: '1102',
+    kpoint_ids: [3749],
+    catalog_ids: [
+      6603, 7451, 5937, 7640, 5720, 7823, 6129, 6406, 8139, 7313, 7099, 6871,
+      7985
+    ],
+    years: [2024],
+    difficulty: 0.8500000000000001,
+    difficulty_level: 18,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teejCN0X5URBhmJzBE59zXYo"><p style="text-align: left;"><span style="font-family: 宋体;">已知，关于</span><img  src="https://img.xkw.com/dksih/formula/81dea63b8ce3e51adf66cf7b9982a248.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的一元二次方程</span><img  src="https://img.xkw.com/dksih/formula/d729efa44ee74ffe0662d2c3723a5937.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的一个根是</span><img  src="https://img.xkw.com/dksih/formula/47cfe4e08c06bde245e58aa22485044c.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则另一个根为</span><span class="qml-bk" index="1" size="8" type="underline" style="text-decoration:underline" >　　　　　　　　</span><span style="font-family: 宋体;">．</span></p></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teejCN0X5URBhmJzBE59zXYo"><span class="qml-an-sq"><span class="qml-an  qml-exact"><img  src="https://img.xkw.com/dksih/formula/ab46ea0cba2d06283fae3d864a2329e0.svg" class="xkw-math-img" /><span style="font-family: \'Times New Roman\';">##</span><img  src="https://img.xkw.com/dksih/formula/2b2c435cd404239eba4f825bfdccb63a.svg" class="xkw-math-img" /></span></span></div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6teejCN0X5URBhmJzBE59zXYo"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">此题考查了一元二次方程根与系数的关系，设另一个根为</span><img  src="https://img.xkw.com/dksih/formula/e170f206fdbbd834aad7580c727e2cc6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则根据根与系数的关系得出</span><img  src="https://img.xkw.com/dksih/formula/6e96dcb9171a8f55688f47eb2cbe8b24.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，求出即可．</span></p></div><div class="qml-seg" seg-name="详解">【详解】<p style="text-align: left;"><span style="font-family: 宋体;">解：设另一个根为</span><img  src="https://img.xkw.com/dksih/formula/e170f206fdbbd834aad7580c727e2cc6.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，则</span><img  src="https://img.xkw.com/dksih/formula/6e96dcb9171a8f55688f47eb2cbe8b24.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">解得：</span><img  src="https://img.xkw.com/dksih/formula/87b4b55acbcebe9a931c2fc5f012a451.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">所以，另一个根为</span><img  src="https://img.xkw.com/dksih/formula/ab46ea0cba2d06283fae3d864a2329e0.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">故答案为：</span><img  src="https://img.xkw.com/dksih/formula/ab46ea0cba2d06283fae3d864a2329e0.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-23 00:04:05',
+    paper_type_ids: [3],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 6603,
+        name: '24.2 解一元二次方程'
+      },
+      {
+        id: 7451,
+        name: '27.2 解一元二次方程'
+      },
+      {
+        id: 5937,
+        name: '17.2 一元二次方程的解法'
+      },
+      {
+        id: 7640,
+        name: '*21.2.4 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 5720,
+        name: '*5 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 7823,
+        name: '*1.3 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 6129,
+        name: '*17.4 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 6406,
+        name: '＊5. 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 8139,
+        name: '2.4 一元二次方程根与系数的关系（选学）'
+      },
+      {
+        id: 7313,
+        name: '*4.6 一元二次方程根与系数的关系'
+      },
+      {
+        id: 7099,
+        name: '*5 一元二次方程的根与系数的关系'
+      },
+      {
+        id: 6871,
+        name: '16.2.3 公式法'
+      },
+      {
+        id: 7985,
+        name: '*2.4 一元二次方程根与系数的关系'
+      }
+    ],
+    type: {
+      id: '1102',
+      name: '填空题'
+    },
+    kpoints: [
+      {
+        id: 3749,
+        name: '一元二次方程的根与系数的关系'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 1,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title:
+          '江苏省泰州市靖江市靖江市八校联盟2023-2024学年九年级下学期3月月考数学试题',
+        area: {
+          id: '320000',
+          name: '江苏省'
+        },
+        type_id: 3,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  },
+  {
+    id: '3460781758324736',
+    course_id: 11,
+    type_id: '110305',
+    kpoint_ids: [3738, 3745],
+    catalog_ids: [
+      7822, 8137, 7451, 6871, 5718, 5938, 6128, 6405, 6604, 7097, 7312, 7638,
+      7984
+    ],
+    years: [2024],
+    difficulty: 0.8500000000000001,
+    difficulty_level: 18,
+    stem: '<div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tef-KQlqJVoYdrq0KM9E56VI"><p style="text-align: left;"><span style="font-family: 宋体;">已知关于</span><img  src="https://img.xkw.com/dksih/formula/81dea63b8ce3e51adf66cf7b9982a248.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的方程</span><img  src="https://img.xkw.com/dksih/formula/0651eb9b5b923cc4be43f953f7efbf6e.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tef-KQlqJVoYdrq0KM9E56VI"><span class="ques-no">（1）</span><span style="font-family: 宋体;">当</span><img  src="https://img.xkw.com/dksih/formula/d8a3cc8c48bf54ec8252e5dce6867754.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，求原方程的解．</span></div></div><div class="qml-sq" id-container="question"><div class="qml-stem" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tef-KQlqJVoYdrq0KM9E56VI"><span class="ques-no">（2）</span><span style="font-family: 宋体;">若原方程有两个相等的实数根，求</span><img  src="https://img.xkw.com/dksih/formula/294f5ba74cdf695fc9a8a8e52f421328.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的值．</span></div></div></div>',
+    answer:
+      '<div class="qml-answer" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tef-KQlqJVoYdrq0KM9E56VI">（1）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><img  src="https://img.xkw.com/dksih/formula/f0736457346c11dd6f458418a4f747ff.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/7eba583e37243f3ba166bd1c11e58498.svg" class="xkw-math-img" /></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）<span class="qml-an-sq" id-container="question"><span class="qml-an  "><img  src="https://img.xkw.com/dksih/formula/10b58380c3a466e952a9c6b9c886a7f9.svg" class="xkw-math-img" /></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>',
+    explanation:
+      '<div class="qml-explanation" data-copyright="xkw.com-1716796687-105981715226768400-3mutNXTQ-XUd9MkQl6thCr_1F7YJN31CQTZRF1e6tef-KQlqJVoYdrq0KM9E56VI"><div class="qml-seg" seg-name="分析">【分析】<p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">本题考查了解一元二次方程，一元二次方程根的判别式，熟练掌握一元二次方程解法，一元二次方程根的判别式是解题关键．</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">1</span><span style="font-family: 宋体;">）将</span><img  src="https://img.xkw.com/dksih/formula/d8a3cc8c48bf54ec8252e5dce6867754.svg" class="xkw-math-img" /><span style="font-family: 宋体;">代入，解方程即可；</span></p><p style="text-align:justify;word-break:break-word"><span style="font-family: 宋体;">（</span><span style="font-family: \'Times New Roman\';">2</span><span style="font-family: 宋体;">）先求出</span><img  src="https://img.xkw.com/dksih/formula/470b85076b118533a1461b7aa1ef9145.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的值，再根据</span><img  src="https://img.xkw.com/dksih/formula/470b85076b118533a1461b7aa1ef9145.svg" class="xkw-math-img" /><span style="font-family: 宋体;">的符号即可得出答案．</span></p></div><div class="qml-exps-sq" id-container="question">(1)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：当</span><img  src="https://img.xkw.com/dksih/formula/d8a3cc8c48bf54ec8252e5dce6867754.svg" class="xkw-math-img" /><span style="font-family: 宋体;">时，原方程为</span><img  src="https://img.xkw.com/dksih/formula/d1fdf7d28b97fb6fe731703f80e122ed.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/495b250475ef84e0d7ba3edd0f636a51.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">即</span><img  src="https://img.xkw.com/dksih/formula/f9378f4030a56301dfdf892c0b36182b.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/776b26892877019247c7a50f735b0f01.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">解得：</span><img  src="https://img.xkw.com/dksih/formula/f0736457346c11dd6f458418a4f747ff.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span><img  src="https://img.xkw.com/dksih/formula/7eba583e37243f3ba166bd1c11e58498.svg" class="xkw-math-img" /><span style="font-family: 宋体;">；</span></p></div><div class="qml-exps-sq" id-container="question">(2)小问详解： <p style="text-align: left;"><span style="font-family: 宋体;">解：</span><img  src="https://img.xkw.com/dksih/formula/16f3d198e76391779fa3badc848c8ac8.svg" class="xkw-math-img" /><span style="font-family: 宋体;">该一元二次方程有两个相等的实数根，</span></p><p style="text-align: left;"><img  src="https://img.xkw.com/dksih/formula/b77ade29ce717628f51fc58d41c5c0ec.svg" class="xkw-math-img" /><span style="font-family: 宋体;">，</span></p><p style="text-align: left;"><span style="font-family: 宋体;">解得：</span><img  src="https://img.xkw.com/dksih/formula/10b58380c3a466e952a9c6b9c886a7f9.svg" class="xkw-math-img" /><span style="font-family: 宋体;">．</span></p></div></div>',
+    create_date: '2024-03-24 23:21:25',
+    paper_type_ids: [26],
+    course: {
+      id: 11,
+      name: '初中数学'
+    },
+    catalogs: [
+      {
+        id: 7822,
+        name: '1.2 一元二次方程的解法'
+      },
+      {
+        id: 8137,
+        name: '2.2 一元二次方程的解法'
+      },
+      {
+        id: 7451,
+        name: '27.2 解一元二次方程'
+      },
+      {
+        id: 6871,
+        name: '16.2.3 公式法'
+      },
+      {
+        id: 5718,
+        name: '3 用公式法求解一元二次方程'
+      },
+      {
+        id: 5938,
+        name: '17.3 一元二次方程根的判别式'
+      },
+      {
+        id: 6128,
+        name: '17.3 一元二次方程根的判别式'
+      },
+      {
+        id: 6405,
+        name: '4. 一元二次方程根的判别式'
+      },
+      {
+        id: 6604,
+        name: '24.3 一元二次方程根与系数的关系*'
+      },
+      {
+        id: 7097,
+        name: '3 用公式法解一元二次方程'
+      },
+      {
+        id: 7312,
+        name: '4.5 一元二次方程根的判别式'
+      },
+      {
+        id: 7638,
+        name: '21.2.2 公式法'
+      },
+      {
+        id: 7984,
+        name: '2.3 一元二次方程根的判别式'
+      }
+    ],
+    type: {
+      id: '110305',
+      name: '问答题'
+    },
+    kpoints: [
+      {
+        id: 3738,
+        name: '解一元二次方程——配方法'
+      },
+      {
+        id: 3745,
+        name: '根据一元二次方程根的情况求参数'
+      }
+    ],
+    media: 0,
+    exp_video_posters: {},
+    answer_scoreable: 0,
+    tag_ids: [],
+    tags: [],
+    en_word_ids: {},
+    en_words: {},
+    source_papers: [
+      {
+        title: '2024年江西省南昌市部分学校中考一模数学试题',
+        area: {
+          id: '360000',
+          name: '江西省'
+        },
+        type_id: 26,
+        grade_id: 9,
+        term: 'NEXT',
+        year: 2024
+      }
+    ]
+  }
+]
+
+const data5 = [
+  {
+    id: '0101',
+    name: '选择题',
+    objective: true,
+    ordinal: 1,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0118',
+    name: '互动连线题',
+    objective: false,
+    ordinal: 1,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '011801',
+    name: '图图连线',
+    objective: false,
+    ordinal: 1,
+    parent_id: '0118',
+    course_id: 1
+  },
+  {
+    id: '0102',
+    name: '填空题',
+    objective: false,
+    ordinal: 2,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '011802',
+    name: '图文连线',
+    objective: false,
+    ordinal: 2,
+    parent_id: '0118',
+    course_id: 1
+  },
+  {
+    id: '0119',
+    name: '互动分类题',
+    objective: false,
+    ordinal: 2,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '011803',
+    name: '文文连线',
+    objective: false,
+    ordinal: 3,
+    parent_id: '0118',
+    course_id: 1
+  },
+  {
+    id: '0120',
+    name: '基础知识综合',
+    objective: false,
+    ordinal: 3,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0121',
+    name: '综合性学习',
+    objective: false,
+    ordinal: 3,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0103',
+    name: '语言表达',
+    objective: false,
+    ordinal: 4,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0104',
+    name: '现代文阅读',
+    objective: false,
+    ordinal: 4,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0105',
+    name: '文言文阅读',
+    objective: false,
+    ordinal: 5,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0106',
+    name: '信息匹配',
+    objective: false,
+    ordinal: 6,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0108',
+    name: '句子训练',
+    objective: false,
+    ordinal: 8,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0109',
+    name: '连线题',
+    objective: false,
+    ordinal: 9,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0110',
+    name: '判断题',
+    objective: true,
+    ordinal: 10,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0111',
+    name: '排序题',
+    objective: false,
+    ordinal: 11,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0112',
+    name: '书写',
+    objective: false,
+    ordinal: 12,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0113',
+    name: '诗词曲鉴赏',
+    objective: false,
+    ordinal: 13,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0114',
+    name: '修改病句',
+    objective: false,
+    ordinal: 14,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0107',
+    name: '书面表达',
+    objective: false,
+    ordinal: 15,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0115',
+    name: '简答题',
+    objective: false,
+    ordinal: 15,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0116',
+    name: '其他',
+    objective: false,
+    ordinal: 16,
+    parent_id: '0',
+    course_id: 1
+  },
+  {
+    id: '0117',
+    name: '听读鉴赏',
+    objective: false,
+    ordinal: 17,
+    parent_id: '0',
+    course_id: 1
+  }
+]
+
 module.exports = [
   {
+    // 课程
     url: '/new/print/e/t/q/x/courses/all',
     type: 'get',
     response: (config) => {
@@ -3385,7 +4752,8 @@ module.exports = [
     }
   },
   {
-    url: '/new/print/e/t/q/x/book1\.*',
+    // 教材
+    url: '/new/print/e/t/q/x/book1.*',
     type: 'get',
     response: (config) => {
       const items = data2
@@ -3405,10 +4773,41 @@ module.exports = [
     }
   },
   {
-    url: '/new/print/e/t/q/x/book2\.*',
+    // 教材章节
+    url: '/new/print/e/t/q/x/book2.*',
     type: 'get',
     response: (config) => {
       const items = data3
+      return {
+        success: true,
+        message: 'success',
+        code: 200,
+        timestamp: 1716796645379,
+        result: items
+      }
+    }
+  },
+  {
+    // 题详情
+    url: '/new/print/e/t/q/x/question/query',
+    type: 'post',
+    response: (config) => {
+      const items = data4
+      return {
+        success: true,
+        message: 'success',
+        code: 200,
+        timestamp: 1716796645379,
+        result: items
+      }
+    }
+  },
+  {
+    // 题型
+    url: '/new/print/e/t/q/x/question/types\.*',
+    type: 'get',
+    response: (config) => {
+      const items = data5
       return {
         success: true,
         message: 'success',

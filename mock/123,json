@@ -1,0 +1,194 @@
+[
+    {
+        "id": "0101",
+        "name": "选择题",
+        "objective": true,
+        "ordinal": 1,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0118",
+        "name": "互动连线题",
+        "objective": false,
+        "ordinal": 1,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "011801",
+        "name": "图图连线",
+        "objective": false,
+        "ordinal": 1,
+        "parent_id": "0118",
+        "course_id": 1
+    },
+    {
+        "id": "0102",
+        "name": "填空题",
+        "objective": false,
+        "ordinal": 2,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "011802",
+        "name": "图文连线",
+        "objective": false,
+        "ordinal": 2,
+        "parent_id": "0118",
+        "course_id": 1
+    },
+    {
+        "id": "0119",
+        "name": "互动分类题",
+        "objective": false,
+        "ordinal": 2,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "011803",
+        "name": "文文连线",
+        "objective": false,
+        "ordinal": 3,
+        "parent_id": "0118",
+        "course_id": 1
+    },
+    {
+        "id": "0120",
+        "name": "基础知识综合",
+        "objective": false,
+        "ordinal": 3,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0121",
+        "name": "综合性学习",
+        "objective": false,
+        "ordinal": 3,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0103",
+        "name": "语言表达",
+        "objective": false,
+        "ordinal": 4,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0104",
+        "name": "现代文阅读",
+        "objective": false,
+        "ordinal": 4,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0105",
+        "name": "文言文阅读",
+        "objective": false,
+        "ordinal": 5,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0106",
+        "name": "信息匹配",
+        "objective": false,
+        "ordinal": 6,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0108",
+        "name": "句子训练",
+        "objective": false,
+        "ordinal": 8,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0109",
+        "name": "连线题",
+        "objective": false,
+        "ordinal": 9,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0110",
+        "name": "判断题",
+        "objective": true,
+        "ordinal": 10,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0111",
+        "name": "排序题",
+        "objective": false,
+        "ordinal": 11,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0112",
+        "name": "书写",
+        "objective": false,
+        "ordinal": 12,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0113",
+        "name": "诗词曲鉴赏",
+        "objective": false,
+        "ordinal": 13,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0114",
+        "name": "修改病句",
+        "objective": false,
+        "ordinal": 14,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0107",
+        "name": "书面表达",
+        "objective": false,
+        "ordinal": 15,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0115",
+        "name": "简答题",
+        "objective": false,
+        "ordinal": 15,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0116",
+        "name": "其他",
+        "objective": false,
+        "ordinal": 16,
+        "parent_id": "0",
+        "course_id": 1
+    },
+    {
+        "id": "0117",
+        "name": "听读鉴赏",
+        "objective": false,
+        "ordinal": 17,
+        "parent_id": "0",
+        "course_id": 1
+    }
+]
