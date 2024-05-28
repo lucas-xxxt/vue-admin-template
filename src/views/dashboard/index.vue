@@ -131,6 +131,7 @@
               <el-select
                 v-model="year"
                 size="mini"
+                clearable
                 style="width: 20%"
                 placeholder="请选择"
                 @change="handleChangeYear"
@@ -142,6 +143,7 @@
                   :value="item.id"
                 />
               </el-select>
+              <el-button class="opt-btn" size="mini" type="primary" @click="handleNewList">再来一组</el-button>
             </div>
             <el-divider />
             <!-- 内容区 -->
@@ -454,6 +456,9 @@ export default {
       this.$set(item, 'showAnswer', !item.showAnswer)
       console.log(item, 'answer')
     },
+    handleNewList() {
+      this.getSubject()
+    },
     getSubject() {
       let arr = []
       if (this.curDifficultId.indexOf(1) !== -1) {
@@ -463,7 +468,7 @@ export default {
       }
       const params = {
         year: this.year,
-        type: this.curChildId ? this.curChildId: this.curTypeId,
+        type: this.curChildId ? this.curChildId : this.curTypeId,
         difficultyLevelsArr: arr
       }
       if (this.activeName === 'chapter') {
@@ -613,6 +618,14 @@ export default {
 }
 .year {
   font-size: 12px;
+  .opt-btn {
+    position: fixed;
+    width: 100px;
+    height: 40px;
+    line-height: -20px;
+    top: 300px;
+    right: 20px;
+  }
 }
 .main-detail {
   .detail-show {
