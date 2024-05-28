@@ -32,8 +32,15 @@ export function getQuestion(courseId) {
   })
 }
 
-// 获取题目详情
+// 获取知识点树
+export function getKnowledge(courseId) {
+  return request({
+    url: `/new/print/e/t/q/x/course/knowledge/points?courseId=${courseId}`,
+    method: 'get'
+  })
+}
 
+// 获取题目详情
 export function getDetail(data) {
   return request({
     url: '/new/print/e/t/q/x/question/query',
